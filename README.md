@@ -2,7 +2,6 @@
 
 ---
 
-## 2022-08
+Today I Learned
 
-
-### [2022-08-12 TIL](https://github.com/ChangSuLee00/TIL/blob/main/2022-08/2022-08-12.md)
+오늘 한 일과 내일 할 일을 기록합니다.
