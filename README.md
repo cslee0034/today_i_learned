@@ -4,6 +4,6 @@ Today I Learned
 
 오늘 한 일과 내일 할 일을 기록합니다.
 
----
+<2022-11-17 TIL부터 그날 한 일을 적는 방식 -> 그날 배운 내용을 간단하게 적는 방식으로 변경>
 
-[2022-08 TIL](https://github.com/ChangSuLee00/TIL/tree/main/2022-08)
+---
